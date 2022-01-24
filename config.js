@@ -3,10 +3,10 @@ let chalk = require('chalk')
 
 global.owner = ['6285876902820', '0']
 
-global.APIs = {
+global.APIs = {RHns
   amel: 'https://melcanz.com',
 }
-global.APIKeys = {
+global.APIKeys = {RHns
   'https://melcanz.com': 'bot by @fahril'
 }
 
